@@ -1,3 +1,5 @@
+![Font Sample](images/placard.png)
+
 This is an updated version of the developer's widely-used BeowulfOne font.
 
 By default, the font is in "modern" mode, employing letter-shapes that
